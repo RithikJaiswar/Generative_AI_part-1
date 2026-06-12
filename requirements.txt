@@ -1,6 +1,15 @@
 streamlit
+pydantic
 langchain
 langchain-core
+langchain-community
+langchain-openai
+langchain-google-genai
 langchain-mistralai
+langgraph
 python-dotenv
-pydantic
+faiss-cpu
+tiktoken
+fastapi
+uvicorn
+requests
