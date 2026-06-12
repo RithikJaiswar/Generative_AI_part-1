@@ -10,7 +10,7 @@ load_dotenv()
 
 # ------------------ MODEL ------------------
 
-model = ChatMistralAI(model="mistral-small-2506")
+model = ChatMistralAI(model="mistral-small-2506",api_key=st.secrets["bvnlYoDywX0r2lAyItV5x8UObpKuUGd0"])
 
 # ------------------ SCHEMA ------------------
 
