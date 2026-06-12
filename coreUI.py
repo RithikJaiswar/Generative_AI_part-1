@@ -7,7 +7,7 @@ from typing import List, Optional
 
 # ------------------ MODEL ------------------
 
-model = ChatMistralAI(model="mistral-small-2506",api_key=st.secrets["bvnlYoDywX0r2lAyItV5x8UObpKuUGd0"])
+model = ChatMistralAI(model="mistral-small-2506",api_key=st.secrets["MISTRAL_API_KEY"])
 
 # ------------------ SCHEMA ------------------
 
